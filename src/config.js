@@ -1,0 +1,1 @@
+export const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'http://anne-dev-flask.eba-staidi2z.us-east-1.elasticbeanstalk.com'; 
